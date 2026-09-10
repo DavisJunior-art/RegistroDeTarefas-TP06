@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registro de Tarefas</string>
+    <string name="name_required">Digite o nome da tarefa</string>
+    <string name="description_required">Digite a descrição da tarefa</string>
+    <string name="complete_task">Concluir</string>
+    <string name="reopen_task">Reabrir</string>
+</resources>

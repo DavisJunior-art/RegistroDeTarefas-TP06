@@ -1,0 +1,6 @@
+<resources>
+    <plurals name="task_count">
+        <item quantity="one">1 tarefa cadastrada</item>
+        <item quantity="other">%d tarefas cadastradas</item>
+    </plurals>
+</resources>
